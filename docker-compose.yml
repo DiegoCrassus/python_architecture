@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+
+  project_name:
+    build:
+      context: ./project_name/
+      dockerfile: Dockerfile
+    volumes:
+      - ./project_name/:/code
+    env_file:
+      - ./project_name/environment
+    ports:
+      - 9000:5000
+
+networks:
+  backend:
+    driver: bridge

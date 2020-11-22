@@ -1,0 +1,8 @@
+FLASK_HOST=0.0.0.0
+FLASK_PORT=5000
+FLASK_URL_FIX=/api
+FLASK_DEBUG=1
+
+ROUTE=/teste
+ENDPOINTS=endpoint
+PATH_LOG=./log_project_name

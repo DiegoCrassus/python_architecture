@@ -1,0 +1,6 @@
+2020-05-15 14:37:41.151 | DEBUG    | __main__:main:39 - [+] --- starting at: 0.0.0.0:5000/api
+2020-05-15 14:37:41.372 | DEBUG    | __main__:main:39 - [+] --- starting at: 0.0.0.0:5000/api
+2020-05-15 14:37:50.930 | WARNING  | projeto.utils.Logger:warning:34 - [-] - 172.20.0.1 --- Warning: GET - Teste
+2020-05-15 14:37:55.844 | WARNING  | projeto.utils.Logger:warning:34 - [-] - 172.20.0.1 --- Warning: GET - Teste
+2020-05-15 14:38:02.139 | DEBUG    | projeto.utils.Logger:debug:15 - [+] - 172.20.0.1 --- Request recebida.
+2020-05-15 14:38:02.139 | ERROR    | projeto.utils.Logger:error:42 - [-] - 172.20.0.1 --- Exception: TypeError, No request data.
