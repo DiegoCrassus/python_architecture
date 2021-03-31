@@ -5,4 +5,4 @@ Werkzeug==0.16.0
 loguru==0.4.1
 
 numpy==1.18.4
-Pillow==7.1.2
+Pillow==8.1.1
